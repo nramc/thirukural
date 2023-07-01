@@ -1,0 +1,11 @@
+# Hello Consumer
+GET http://localhost:8080/hello/ram
+
+###
+# Bye Supplier
+GET http://localhost:8080/bye
+
+###
+# Echo Function
+GET http://localhost:8080/echo/hello
+
